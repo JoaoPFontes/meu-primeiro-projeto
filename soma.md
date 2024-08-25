@@ -1,3 +1,3 @@
-def soma_dois_numeros(a, b):
+def soma_dois_numerito(a, b):
 
 	return a + b
