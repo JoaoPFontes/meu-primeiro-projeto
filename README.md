@@ -14,16 +14,7 @@ Instruções sobre como instalar e configurar o ambiente necessário para rodar 
 
 ```bash
 # Clone este repositório
-git clone https://github.com/seu-usuario/seu-projeto.git
-
-# Entre no diretório do projeto
-cd seu-projeto
-
-# Instale as dependências
-npm install
-
-# Execute o projeto
-npm start
+repositório X 
 ```
 
 ## Uso
